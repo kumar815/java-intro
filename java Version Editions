@@ -1,4 +1,12 @@
-"version"
+
+                                           /////////////////////////////////////////////////////////////
+                                          *--*--*--THIS CHAPTER ONLY VERSION AND EDITIONS TOPICS--*--*--*
+                                          //////////////////////////////////////////////////////////////
+
+----$-"version"-$----
+
+ "Sun Microsystem Relesed the  Frist public Implemations as java 1.0version 1995year"
+ 
 Q)what is version?
 a)
 **A version is a numbers that is used to identify the current future and enhancements is a 
@@ -10,9 +18,157 @@ a)
 
 **A product is also a softwere but is developed common for all compaies,wecan say it is a readymade softwere.
 
+version more informations given web link:-  https://www.oracle.com/java/technologies/downloads/
 
 
 
+
+///JDK Alpha and Beta (1995)
+
+Java Softwere       Windows Softwere      Oracle Softwere   Code Name          Relese Date
+                 Frist Relese JDK Alpha and Beta (1995)
+java 1.0            windows 98            oracle 8                             JDK 1.0 (January 23, 1996)
+java 1.1            windows 2000          oracle 9                             JDK 1.1 (February 19, 1997)
+java 2 platform     windows 2008          oracle LOG                           J2SE 1.2 (December 8, 1998)
+java 2.0.0          windows xp            oracle XE
+java 2.0.1          windows vista         oracle XEG
+java 2.1.2          windows 7
+java 2.1.3          windows 8                                                  J2SE 1.3 (May 8, 2000)
+java 2.1.4          windows 9                                                  J2SE 1.4 (February 6, 2002)
+java 5.0                                                                       J2SE 5.0 (September 30, 2004)
+java 6.0                                                                       Java SE 6 (December 11, 2006)
+java 7.0                                                                       Java SE 7 (July 28, 2011)
+java 8.0                                                                       Java SE 8 (March 18, 2014)
+java 9.0                                                                       Java SE 9 (September 21, 2017)
+java 10.0                                                                      Java SE 10 (March, 20, 2018)
+java 11.0
+java 13.0
+java 17.o
+java 19.0
+
+//Note:-
+meening for LTS=long term supports.
+java standred version----java 5.0 version,java 6.0, java 8.0,java 11.0,java 13.0,java 17.0,java 19.0 version.
+
+//Note :-
+one patticular  java version one codename availble.
+
+ex:-
+java 5.0 codename is "tiger"
+java 6.0 codenmae is "Dolphins"  more...
+
+////Note:-
+java 11.0 version onwareds removed "jre"(java run time environment)removed(sun microsystem).
+
+//Version Types?
+Version 2 Types:-
+1)Majaor Version
+2)Minor Version
+
+1a)Majaor Version-
+                  it is the Main Version,if there are any new future or enhancement of current relese that software.
+                  ex:-java latest major is java 17.0
+                  java software is relesed with major version if there are any new future or enhancement are added.
+2a)Minor Version-
+                 it is the sub version of the major version contain bug fixes.
+                 ex:-java latest minor is java 17.0.0_"0.1" sub version (0.1)
+                 java software is relesed with minor if there are only bug fixes.
+                 
+Major&minor more examples:- Major       Minor      major&minor
+                          (standred)    
+                            1.0.0       _0.0      1.0.0_0.0
+                            1.1.0       _0.1      1.1.0_0.1
+                            1.1.2       _0.2      1.1.2_0.2
+                            1.1.3       _0.3      1.1.3_0.3
+                            1.2         _0.1      1.2_0.1   after Devide to Editions
+                            2.0
+                            5.0
+                            7.0
+                            8.0
+                            9.0------
+                            11.0 ---- removed Jre(Not used to clint side )
+                            13.0
+                            17.0
+                            19.0
+                            
+----$-"Editions"-$----
+Q)    What is a Edition?
+ans:-
+     Edition is a Catagory,all java futures are categorized into three editions.
+        java 2version After divided to Editions:-3 Edition
+        
+Q)How many types Divide editions?
+ans:-
+     Editions Divide into the 3types:-
+      1)SE(Standered Edition)   -------j2SE
+      2)ME (Micro Edition)      -------J2ME
+      3)EE(Enterprise Editon)   -------J2EE
+      
+Q)What is the Significated of the 2in above name?
+ans:-
+    nothing,it just represent editions were-introduced in java 2version
+
+Q)Why Java concepts are divided into Edition?
+ans:-
+     in java 2 Version "sun" introduced new future and concepts to support web and enterprise applications so sun thought that is bettar_to 
+     diivde java concepts into three catagorise for essy Maintenance and for esay distributions.
+     
+Q)What is  java SE,EE and ME Contains?
+ans:-
+    Java SE:--
+            has programming language concepts,platform and also technology.
+            J2SE has concepts to develop software for desktop based application.
+            ex:-c/c++ software,desktop applications,notepad,autocad more...
+    Java ME:--
+            J2ME has concepts to develop software for consumar elatranic devic means embedded.
+            like mobile,ot is popular for developing Mobile Gamming Applications.
+            ex:--Micro chips,Memory cards,Game,Elatranic Micro devices more...
+    Java EE:--
+            has only its own platform and technologies.
+            has concepts develop software for web and Enterprise applications.these applications are_
+            also called as high scale applications .
+            ex:--banking and insurence based applications more...
+            
+            
+            
+Editions   PL(Support)   Platform      Technologies based API
+
+SE        YES             JDK               YES
+ME         NO             SERVER            YES
+EE         NO             MDK(SDK)          YES
+
+
+                                           /////////////////////////////////////////////////////////////
+                                              *--*--*--VERSION AND EDITIONS TOPICS cOMPLITED--*--*--*
+                                          //////////////////////////////////////////////////////////////
+
+
+
+
+
+
+            
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
 
 
 
