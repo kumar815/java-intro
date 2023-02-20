@@ -1,7 +1,13 @@
 # /*....java-introductions....*/
 
 1)---what is java?
-ans:- java is a platform independence and object orientend programmming
+ans:- java is a platform independence and object orientend programmming.
+
+>Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. 
+>James Gosling is known as the father of Java. Before Java, its name was Oak. 
+>Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.
+
+
 
 2)---Who invented java?
 ans:-java invented for "James Gosling" in the year 1995 may 23rd from "Sun microsystem ".
@@ -12,8 +18,16 @@ inveted to james gosling team.
 ans)-it is inveted to Achive "platform independency" for developing internet-based Bussiness applications.
 
 Note:-
- java programme develop standalone application andinternet based application.
+ java programme develop standalone application and internet based application.
  jdk1.o was relesed on jan23,1996
+ 
+ -----##Platform##-----
+ !)What is Platform?
+ ans:-
+ an environment in which a program load and executed is called Platform.
+ 
+ Platform: Any hardware or software environment in which a program runs, is known as a platform.
+ Since Java has a runtime environment (JRE) and API, it is called a platform.
  
  
  
